@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,600;0,800;1,800&family=Source+Sans+Pro:ital,wght@0,400;0,600;0,700;1,700&display=swap');
+
+* {
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+}
+
+body {
+    width: 60%;
+    margin: 2%;
+    margin-left: 20%;
+    margin-right: 20%;
+    border: 1em solid rgb(206, 206, 206);
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+#posts {
+    width: 96%;
+    margin: 1%;
+    padding: 1%;
+
+}
+
+#posts h5 {
+    color: rgb(67, 170, 238);
+    font-size: 1.2em;
+    padding-top: 1%;
+    padding-bottom: 1%;
+}
+
+#posts h1 {
+    color: rgb(66, 66, 66);
+    padding-bottom: 1%;
+}
+
+#posts p {
+    text-align: left;
+}
+
+#other {
+    font-size: 1.2em;
+}
+
+
+hr {
+    margin-top: 2.2%;
+
+}
+
+#border-lft {
+    border-left: 0.4em solid rgb(165, 163, 163);
+    padding-left: 1%;
+    font-size: 1.2em;
+}
